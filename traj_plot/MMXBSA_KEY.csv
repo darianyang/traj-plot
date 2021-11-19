@@ -1,0 +1,15 @@
+Description,gb,pb
+Bond energy,BOND,BOND
+Angle energy,ANGLE,ANGLE
+Dihedral Energy,DIHED,DIHED
+1-4 van der Waals energy,1-4 VDW,1-4 VDW
+1-4 Electrostatic energy,1-4 EEL,1-4 EEL
+van der Waals energy,VDWAALS,VDWAALS
+Electrostatic energy,EEL,EEL
+Polar solvation energy,EGB,EPB
+Non-polar solvation energy,ESURF,ENPOLAR
+Self-consistent field energy,ESCF,ESCF
+Dispersion salvation energy,EDISPER,EDISPER
+Total solvation free energy,G solv,G solv
+Total gas phase free energy,G gas,G gas
+Total energy,TOTAL,TOTAL
