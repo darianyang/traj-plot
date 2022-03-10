@@ -1,4 +1,4 @@
-traj_plot
+traj-plot
 ===========================
 Plotting of cpptraj output, also has some support for MDAnalysis calculations and plotting. 
 
